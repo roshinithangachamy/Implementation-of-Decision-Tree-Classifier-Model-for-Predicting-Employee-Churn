@@ -61,20 +61,19 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 ## Output:
 
-![image](https://github.com/user-attachments/assets/9c995287-8006-48a9-886f-e93ec3367468)
+![Screenshot 2024-10-15 201017](https://github.com/user-attachments/assets/1709f5c1-3715-4780-aeac-b0ca46d1c488)
 
-![image](https://github.com/user-attachments/assets/edf8e6b2-b03a-4888-a2b1-c845b703f907)
+![Screenshot 2024-10-15 201102](https://github.com/user-attachments/assets/08ab380c-f68d-4f09-b650-1da2172f64e5)
 
-![image](https://github.com/user-attachments/assets/1adb0dfd-3888-4dad-bc89-9c90554185ea)
+![Screenshot 2024-10-15 201153](https://github.com/user-attachments/assets/44548cee-d32b-4359-bfd6-3a34ed9728fd)
 
-![image](https://github.com/user-attachments/assets/79fb358b-0125-4ee7-8c58-d3753350379c)
+![Screenshot 2024-10-15 201218](https://github.com/user-attachments/assets/cb34ad1c-a293-4b6e-8573-169d1d862f16)
 
-![image](https://github.com/user-attachments/assets/2aa73530-2817-48cc-88b7-b50586657510)
+![Screenshot 2024-10-15 201629](https://github.com/user-attachments/assets/3cd47356-9621-4c2c-8f88-bbcd2e322e2f)
 
-![image](https://github.com/user-attachments/assets/48b76018-5f78-4f94-8ef0-cbe25039ffe9)
+![Screenshot 2024-10-15 201705](https://github.com/user-attachments/assets/2c13b6b5-b17d-41f4-a381-5fcc83bb89c9)
 
-![image](https://github.com/user-attachments/assets/b363ab33-5dd5-40d2-b7f9-9c8cd2ed466b)
-
+![Screenshot 2024-10-15 201738](https://github.com/user-attachments/assets/e0ccb15a-6517-4b2e-98eb-79ddce56fdde)
 
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
