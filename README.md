@@ -48,22 +48,30 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ## Output:
 
 #### Dataset
-![Screenshot 2024-10-15 201017](https://github.com/user-attachments/assets/1709f5c1-3715-4780-aeac-b0ca46d1c488)
+![369336865-8e1afbe5-6cab-4f34-9f67-0c5363bef40d](https://github.com/user-attachments/assets/2605acd3-efed-4b95-b85b-779bad9636a5)
 
 #### Data Info
-![Screenshot 2024-10-15 201102](https://github.com/user-attachments/assets/08ab380c-f68d-4f09-b650-1da2172f64e5)
+![369336912-78022c77-d134-4d90-82ab-35bc151aa97b](https://github.com/user-attachments/assets/f95b5f97-c392-440a-aca7-31bd0f813db7)
 
-#### Sum of Null Values
-![Screenshot 2024-10-15 201153](https://github.com/user-attachments/assets/44548cee-d32b-4359-bfd6-3a34ed9728fd)
+#### Sum of Null
+![369336979-c41453b2-93a5-4f5e-abbf-c8d8fe65d6a5](https://github.com/user-attachments/assets/89604b1c-7411-4fb4-859c-848df1786f16)
+ Values
 
 #### Labelling 
-![Screenshot 2024-10-15 201218](https://github.com/user-attachments/assets/cb34ad1c-a293-4b6e-8573-169d1d862f16)
+![369337020-52b8d38f-8b1b-441e-ab07-44b72c4c18a6](https://github.com/user-attachments/assets/1a4cc6b5-3a8e-4860-906f-4a845bd3ca12)
 
-![Screenshot 2024-10-15 201629](https://github.com/user-attachments/assets/3cd47356-9621-4c2c-8f88-bbcd2e322e2f)
+#### Assignment of x and y values
+![369337263-655b6c0f-4a5d-40b9-a8e9-7cf70a6791bd](https://github.com/user-attachments/assets/6a5f2fc5-b959-463e-930c-3323da59beea)
+![369337317-8272ff21-5841-4b4f-9df8-62e1f3dbea7a](https://github.com/user-attachments/assets/a7631a82-cd42-467b-9bf4-0767eec68cf9)
 
-![Screenshot 2024-10-15 201705](https://github.com/user-attachments/assets/2c13b6b5-b17d-41f4-a381-5fcc83bb89c9)
+#### Converting string literals to numerical values using label encoder:
+![369337407-032b7667-5476-4f90-9e63-937c0d33a8e9](https://github.com/user-attachments/assets/99bdc78b-ac78-42d4-a4de-caf07c30a4cb)
 
-![Screenshot 2024-10-15 201738](https://github.com/user-attachments/assets/e0ccb15a-6517-4b2e-98eb-79ddce56fdde)
+#### Accuracy
+![369337452-44287cd3-cf56-4844-abe9-a5344f043ee7](https://github.com/user-attachments/assets/fc01cf8f-6180-4590-a88d-f271376bc17b)
+
+#### Prediction
+![369337486-1a7b1554-8bfb-40f2-bebf-78a6f0a010e4](https://github.com/user-attachments/assets/7d57f815-3744-4c4c-a172-d05268fb49ba)
 
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
